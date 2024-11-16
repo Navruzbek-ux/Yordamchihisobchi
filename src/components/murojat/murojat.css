@@ -1,0 +1,22 @@
+.malumot{
+    border-radius: 40px;
+    width: 2000px;
+    height: 1500px;
+    color: #FFFFFF;
+    background: #333333;
+    text-shadow: 2px 2px 0 #4074b5, 2px -2px 0 #4074b5, -2px 2px 0 #4074b5, -2px -2px 0 #4074b5, 2px 0px 0 #4074b5, 0px 2px 0 #4074b5, -2px 0px 0 #4074b5, 0px -2px 0 #4074b5;
+margin-top: 30px;
+}
+.img3{
+    width:2000px;
+    height: 1000px;
+    margin-left: 1px;
+    margin-top: 1px;
+    opacity: 0.7;
+
+}
+.h4 {
+    font-size: 60px;
+    text-align: center;
+
+}

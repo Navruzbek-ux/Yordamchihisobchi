@@ -1,0 +1,5 @@
+@media screen and( max-width: 800px){
+.navbar li{
+    font-size: 10px;
+}
+}

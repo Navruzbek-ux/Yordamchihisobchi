@@ -1,0 +1,40 @@
+body{
+
+}
+.img1{
+
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 20px #e70928;
+    margin-top: 20px;
+margin-left: 1px;
+}.div1{
+     background-color: #417ef8!important;
+    width: 120px;
+    height: 180px;
+    margin-left: 100px;
+    padding: 10px;
+ }
+ .div1:hover{
+     box-shadow: 5px 5px 20px #090909;
+     background-color: #69f841 !important;
+     width: 120px;
+     height: 180px;
+     margin-left: 100px;
+     padding: 10px;
+ }
+@media only screen and (max-width: 768px){
+    .nnnn{
+        margin-left: 500px!important;
+
+    }
+    .div1{
+        margin-left: 30px;
+
+    }
+}
+@media only screen and (min-width: 1024px) and (max-width: 1439px){
+
+
+}

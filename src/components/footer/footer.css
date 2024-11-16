@@ -1,0 +1,53 @@
+.text{
+    color: #FFFFFF;
+
+    text-shadow: 0 -1px 4px #FFF, 0 -2px 10px #ff0, 0 -10px 20px #ff8000, 0 -18px 40px #F00;
+    margin-left: 150px;
+    margin-top: -40px;
+}
+.div3{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    margin-top: 20px;
+    background-color: #417ef8!important;
+    width: 200px;
+    height: 75px;
+    margin-left: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 20px!important;
+
+}
+.img2 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 20px #e70928;
+    margin-top: 0px;
+    margin-left: 1px;
+}.div3:hover{
+     box-shadow: 5px 5px 20px #090909;
+     background-color: #b52b8e !important;
+     width: 200px!important;
+     height: 80px;
+     margin-left: 100px;
+     padding: 10px;
+ }
+.table1{
+       width: 800px!important;
+    margin-left: 500px;
+    margin-top: 50px;
+
+   }
+.yozuv{
+
+    margin-top: -600px!important;
+    margin-left: 550px;
+}
+@media only screen and (min-width: 1024px) and (max-width: 1439px){
+    .div2{
+        margin-left: 200px!important;
+    }
+
+}
